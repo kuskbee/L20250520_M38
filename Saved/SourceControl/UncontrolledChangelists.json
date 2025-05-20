@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/workspaces/cpp/L20250520_Plane/Content/NewMap.umap",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Maps/NewMap.umap",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Meshes/SM_P38_Propeller.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Meshes/SM_Rocket.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Meshes/SM_P38_Body.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Materials/T_Rocket_Base.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Materials/T_Rocket_Normal.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Materials/T_P38Diffuse.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Materials/T_P38Normal.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Materials/M_Plane.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Materials/M_Rocket.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Blueprints/BP_M38.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Blueprints/BP_SceneComponentRotator.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Blueprints/BP_GM.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Blueprints/BP_Rocket.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Materials/MI_Plane.uasset",
+				"C:/workspaces/cpp/L20250520_Plane/Content/Materials/MI_Rocket.uasset"
+			]
+		}
+	]
+}
